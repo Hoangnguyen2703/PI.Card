@@ -1,6 +1,7 @@
 body, html{
     margin: 0;
     padding: 0;
+    align-self: center;
 }
 /*body {
     background: url(3-18.jpg) no-repeat center center fixed;
